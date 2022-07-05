@@ -38,7 +38,8 @@
 
 <p align="center">
 
-<a href="https://shivammalpani.netlify.app/"><img alt="Mail" src="JulianooGomezz@hotmail.com"></a>
+<a href="https://shivammalpani.netlify.app/"><img alt="Mail" src="https://img.shields.io/badge/shivammalpani.netlify.app-black?style=flat-square&logo=google-chrome"></a>
+
 
 <a href="https://www.linkedin.com/in/shivam-malpani-47a379198/"><img alt="LinkedIn" src="https://www.linkedin.com/in/julian-gomez-9b0593239/"></a>
 
