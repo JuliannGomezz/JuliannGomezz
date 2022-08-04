@@ -12,6 +12,7 @@ estoy preparado para comenzar una nueva etapa con mi primer trabajo como program
 
 
 
+
 - 🤔 &nbsp;Explorar nuevas tecnologias Y desarrollar soluciones de software para siempre expandir mis conocimiento.
 
 - 🎓 &nbsp; Estudio En universidad Tecnologica Nacional - Tecnicatura Universitaria en Programacion.
