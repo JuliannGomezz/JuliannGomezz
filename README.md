@@ -33,7 +33,6 @@ estoy preparado para comenzar una nueva etapa con mi primer trabajo como program
 - 🛢 &nbsp; MySQL | MongoDB
 -->
 
-<br/><br/>
 
 <h3> 🤝🏻 Contacto </h3>
 
