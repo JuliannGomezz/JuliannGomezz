@@ -31,9 +31,7 @@
 <br/><br/>
 
 <h3> 🤝🏻 Contacto </h3>
-- Linkedin : 
-
+- Linkedin : https://www.linkedin.com/in/julian-gomez-9b0593239/
+- GitHub : https://github.com/JuliannGomezz
+- Telefono : +54 9 11-51781624.
 <br>
-
-
-
