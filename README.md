@@ -21,7 +21,7 @@ estoy preparado para comenzar una nueva etapa con mi primer trabajo como program
 
 <h3>🛠 Tecnologias que utilizo </h3> 
 
-- 💻 &nbsp; Python | Java | C | C++ | C#
+</h3>  - 💻 &nbsp; Python | Java | C | C++ | C#
 
 </h3> 
 
