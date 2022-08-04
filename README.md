@@ -38,6 +38,8 @@ estoy preparado para comenzar una nueva etapa con mi primer trabajo como program
 
 - GitHub : https://github.com/JuliannGomezz
 
+- E-mail : Julianoogomezz.
+
 - Telefono : +54 9 11-51781624.
 
 <br>
