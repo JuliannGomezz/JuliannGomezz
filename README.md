@@ -5,6 +5,7 @@
 <h3> 👨🏻•💻 Acerca de mi </h3>
 
 Me describo como una persona totalmente profesional, con palabra y sobre todo principios. 
+
 Con ganas de poner a su disposicion todos los conocimientos que he adquirido en mi formacion, 
 estoy preparado para comenzar una nueva etapa con mi primer trabajo como programador.
 
