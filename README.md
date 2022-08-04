@@ -31,6 +31,7 @@
 <br/><br/>
 
 <h3> 🤝🏻 Contacto </h3>
+- Linkedin : 
 
 <br>
 
