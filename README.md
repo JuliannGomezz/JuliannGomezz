@@ -25,8 +25,7 @@ estoy preparado para comenzar una nueva etapa con mi primer trabajo como program
 
 - 💻 &nbsp; Python | Java | C | C++ | C#
 
-- 🌐 &nbsp;p align="centro">
-  <img src="https://img.shields.io/badge/Apple-gray?style=for-the-badge&logo=apple&logoColor=white" alt="apple" />    HTML | CSS | JavaScript 
+- 🌐 &nbsp;p <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />    HTML | CSS | JavaScript 
 <!--
 
 - 🛢 &nbsp; MySQL | MongoDB
