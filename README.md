@@ -34,7 +34,7 @@ estoy preparado para comenzar una nueva etapa con mi primer trabajo como program
 
 <h3> 🤝🏻 Contacto </h3>
 
-- Linkedin : https://www.linkedin.com/in/julian-gomez-9b0593239/
+- Linkedln : https://www.linkedin.com/in/julian-gomez-9b0593239/
 
 - GitHub : https://github.com/JuliannGomezz
 
